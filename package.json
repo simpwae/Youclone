@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Youtube clone app from Chai aur code",
+  "keywords": [
+    "YOUTUBE"
+  ],
+  "license": "ISC",
+  "author": "Naqash Amjad",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
