@@ -7,7 +7,7 @@
   ],
   "license": "ISC",
   "author": "Naqash Amjad",
-  "type": "module",
+  "type":"module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
